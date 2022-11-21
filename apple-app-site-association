@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "2V937298DR.com.UPApp.BV",
-            "paths": ["*"]
+            "paths": ["*", #00020132370010by.*]
         }]
     }
 }
