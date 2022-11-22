@@ -1,9 +1,17 @@
 {
     "applinks": {
-        "apps": [],
+        "apps": ["2V937298DR.com.UPApp.BV"],
         "details": [{
             "appID": "2V937298DR.com.UPApp.BV",
-            "paths": ["*", "#00020132370010by.*"]
-        }]
+            "paths": ["*", "#*"],
+            ""
+        }],
+         "webcredentials": {
+      "apps": ["2V937298DR.com.UPApp.BV" ]
+   },
+
+    "appclips": {
+        "apps": ["2V937298DR.com.UPApp.BV"]
+    }
     }
 }
