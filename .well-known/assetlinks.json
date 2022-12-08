@@ -1,0 +1,18 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "by.belveb.bank.dev",
+    "sha256_cert_fingerprints":
+    ["3D:24:71:F2:A4:E1:35:9F:FF:18:9C:C9:4A:0A:EC:C8:E3:A1:54:83:72:0C:CC:70:4D:E6:6D:2F:2E:04:54:C4"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "by.belveb.bank",
+    "sha256_cert_fingerprints":
+    ["67:00:77:2C:D0:19:17:58:5F:FB:51:AD:DA:75:78:E1:66:67:30:62:9A:51:AE:EF:63:5C:C8:B1:D6:30:8A:49"]
+  }
+}]
